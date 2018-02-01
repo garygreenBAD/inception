@@ -23,7 +23,7 @@ The Elevator Pitch is a structured sentence:
 > * unlike [primary competitive alternative]
 > * our project [statement of primary differentiation]
 
-# Examples
+## Examples
 
 * For Internet Users
 * who need to find specific web services and content
