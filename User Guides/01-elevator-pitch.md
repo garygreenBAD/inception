@@ -48,7 +48,8 @@ The Elevator Pitch is a structured sentence:
 ## Credits
 
 * Author - [Gary Green](mailto:contact@burendo.com) 
-* Company - [Burendo.com](http://burendo.com)
 * [Inception Cheatsheet](http://bad.tools/delivery/docs/cheatsheet-inception.pdf)
 * Originator - [The Agile Warrior](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 * Originator - [Jonathan Rasmusson - The Agile Samurai](https://pragprog.com/titles/jtrap/the-agile-samurai)
+
+[<img src=https://github.com/garygreenBAD/inception/raw/master/images/burendo%20header.png width=50% >](http://burendo.com)
