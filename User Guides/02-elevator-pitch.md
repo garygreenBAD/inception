@@ -12,7 +12,6 @@ Typically, the Elevator Pitch is crafted by the initial team tasked with deliver
 Typically, it should only take a few minutes to agree an initial Elevator Pitch.
 
 ## How do you do it
-
 The Elevator Pitch is a structured sentence:
 
 > * For [target customer]
@@ -24,7 +23,6 @@ The Elevator Pitch is a structured sentence:
 > * our project [statement of primary differentiation]
 
 ## Examples
-
 * For Internet Users
 * who need to find specific web services and content
 * the Google Search
@@ -34,22 +32,20 @@ The Elevator Pitch is a structured sentence:
 * our project will help internet users get to their desired content in a highly accurate, simple and efficient way
 
 ## Gotchas
-
 * Don't spend too long on this.  Don't over think it
 * The sentence can be long, but not too long.  Remember this is an Elevator Pitch, something we should be able to express in less than a minute between floors on a lift
 
 ## Hints and Tip
-
 * Ideally, the Elevator Pitch is "owned" by the Product Owner
 * Post it on the walls
 * Share it with new team members
 * Review it regularly, especially if you are likely to change direction
 
 ## Credits
-
 * Author - [Gary Green](mailto:contact@burendo.com) 
 * [Inception Cheatsheet](http://bad.tools/delivery/docs/cheatsheet-inception.pdf)
 * Originator - [The Agile Warrior](https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/)
 * Originator - [Jonathan Rasmusson - The Agile Samurai](https://pragprog.com/titles/jtrap/the-agile-samurai)
 
-[<img src=https://github.com/garygreenBAD/inception/raw/master/images/burendo%20header.png width=50%>](http://burendo.com)
+## Implemented by
+[<img src=https://github.com/garygreenBAD/inception/raw/master/images/burendo%20header.png width=25%>](http://burendo.com)
