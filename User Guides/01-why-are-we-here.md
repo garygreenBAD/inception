@@ -1,4 +1,4 @@
-# Why Are SWe Here User Guide
+# Why Are We Here User Guide
 ## What is it
 Why are we here is a list of the benefits and outcomes we hope to achieve by delivering the initiative. 
 
